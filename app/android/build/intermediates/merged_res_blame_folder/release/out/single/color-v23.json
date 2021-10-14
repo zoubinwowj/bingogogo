@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/messaging/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/messaging/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

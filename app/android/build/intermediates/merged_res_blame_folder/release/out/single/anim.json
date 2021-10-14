@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/5336261bbba03f0be7fb18516eec3f3d/jetified-react-native-0.63.4/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/5336261bbba03f0be7fb18516eec3f3d/jetified-react-native-0.63.4/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/5336261bbba03f0be7fb18516eec3f3d/jetified-react-native-0.63.4/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/5336261bbba03f0be7fb18516eec3f3d/jetified-react-native-0.63.4/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/5336261bbba03f0be7fb18516eec3f3d/jetified-react-native-0.63.4/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/5336261bbba03f0be7fb18516eec3f3d/jetified-react-native-0.63.4/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    }
+]

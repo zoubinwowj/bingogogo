@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/91f9f837dc1f8d6d15596930ba7578db/jetified-play-services-auth-19.2.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/91f9f837dc1f8d6d15596930ba7578db/jetified-play-services-auth-19.2.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/91f9f837dc1f8d6d15596930ba7578db/jetified-play-services-auth-19.2.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/jiangzehu/work/mobileapp/node_modules/@react-native-firebase/app/android/build/intermediates/res/merged/release/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "/Users/jiangzehu/.gradle/caches/transforms-2/files-2.1/1d8c0512fba36bd539bd07e8963da9fa/appcompat-1.0.2/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]
